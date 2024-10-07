@@ -1,21 +1,20 @@
-<h>Arasho's Tribute</h>
+**Arasho's Tribute**
 <br>
-Hello There!!!\
+Hello There!!!👋\
 This is my first ever project...\
-which I have hosted on vercel!!!!
-<br><br>
-Please access the website here:<a target="_blank" href="https://arashotribute.vercel.app/"> Click Here!! </a>
-<br>
-~~Google has flagged it as unsafe... but don't worry.. to view it click on details and 'then this unsafe site'.. I assure you it is completely safe..&#128516;~~
-<p>
-  **Good News!!!**<br>
-  The website has now become a safe site!!!!<br>
+It is hosted on vercel !!!!\
+\
+Please access the website here:<a target="_blank" href="https://arashotribute.vercel.app/"> Click Here!! </a>\
+\
+~~Google has flagged it as unsafe... but don't worry.. to view it click on details and 'then this unsafe site'.. I assure you it is completely safe..&#128516;~~\
+\
+  **Good News!!!**\
+  The website has now become a *safe site*!!!!<br>
   Use google safe browsing-google transparency report to check about your website..<br>
   If it is flagged... login to google search console and after you've declared your ownership ask for a review stating you have fixed some bug...<br>
-  Soon I recieved a mail from google console regarding the review stating that the site was now safe..
-</p>
+  Soon you'll recieve a mail from google console regarding the review stating that the site has now become safe..
 
-The website uses basic HTML, CSS and JS.<br>
+The website uses basic **HTML, CSS and JS**.<br>
 If you go through the source code ( which you shouldn't &#x1F609;!!) you'll understand the usage of flex and become familiar with DOM and event-listening.
 <br> Please let me know your insights on it..
 
