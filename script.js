@@ -63,6 +63,7 @@ const res=document.getElementById('res');
 async function simulation(ognum){
     isRunning = true; 
     res.innerHTML="";
+    let c=0;
     while (ognum !== '6174') 
     {
         let asc = ascending(ognum);
@@ -78,9 +79,10 @@ async function simulation(ognum){
     
         await sleep(1000);
         ognum = diff.toString().padStart(4, '0'); 
-        res.scrollIntoView({behavior:'smooth'})
+        res.scrollIntoView({behavior:'smooth'});
+        c+=1;
     }
-    res.innerHTML += `<br>Kaprekar's constant (6174) reached!!!!`;
+    res.innerHTML += `<br>You've reached Kaprekar's constant (6174) in ${c} steps !!!!`;
     window.scrollTo(0, document.body.scrollHeight);
     isRunning = false; 
 }
