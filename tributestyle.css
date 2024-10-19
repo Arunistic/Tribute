@@ -59,6 +59,11 @@ a{
     text-decoration: none;
     color:inherit;
 }
+/* meta-content */
+.meta-content{
+    visibility: hidden;
+    font-size:0px;
+}
 /* title bar */
 .titlebar{
     height:100px;
